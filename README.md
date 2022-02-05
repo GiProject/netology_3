@@ -1,2 +1,2 @@
-# netology
-training repository
+## NeuroStarUp
+Презентаций возможностей GIT
